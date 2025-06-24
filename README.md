@@ -1,22 +1,24 @@
 # 🧠 Análisis de Riesgo Crediticio en el Perú
 
-Este proyecto aplica técnicas de análisis de datos y aprendizaje automático para predecir la segmentación de riesgo crediticio de clientes, usando datos de entidades financieras peruanas. El modelo permite clasificar a los clientes en distintos niveles de riesgo para facilitar decisiones de crédito.
+Este proyecto tiene como finalidad aplicar técnicas de ciencia de datos y machine learning para abordar un problema real del sector financiero: **la evaluación del riesgo crediticio de potenciales clientes**.
+
+A través del análisis de datos históricos de personas evaluadas por entidades financieras peruanas, se busca construir un modelo capaz de predecir con precisión el nivel de riesgo crediticio que representa un solicitante, clasificándolo en distintas categorías (por ejemplo: bajo, medio, alto, etc.).
+
+El modelo puede ser utilizado por instituciones financieras para optimizar decisiones relacionadas con la aprobación de préstamos, asignación de garantías o necesidad de avales. Una evaluación automatizada y precisa del riesgo reduce la morosidad y mejora la inclusión financiera.
 
 ---
 
 ## 🎯 Objetivo
 
-Predecir la **segmentación de riesgo crediticio** (bajo, medio, alto, etc.) de un cliente con base en variables personales, económicas y financieras.
+Desarrollar un sistema predictivo de clasificación multiclase que, a partir de atributos personales y económicos de los solicitantes, determine su **segmentación de riesgo crediticio**. El modelo busca:
 
----
+- Anticipar el nivel de riesgo (bajo, medio, alto, etc.) asociado a un cliente.
+- Automatizar la evaluación de perfiles crediticios.
+- Proporcionar una herramienta de apoyo a la toma de decisiones crediticias.
+- Evaluar y comparar distintos algoritmos de clasificación aplicables al contexto financiero peruano.
 
-## 📊 Fases del proyecto
+El resultado final es un modelo entrenado, evaluado y documentado, listo para ser integrado como parte de un sistema de análisis de riesgo en entornos reales.
 
-### 🔹 1. Carga de datos
-
-Se utilizó un archivo CSV con información sobre clientes: sexo, edad, ingresos, tipo de vivienda, garantías, avales, actividad económica y la clase de riesgo asignada.
-
----
 
 ### 🔹 2. Exploración inicial
 
