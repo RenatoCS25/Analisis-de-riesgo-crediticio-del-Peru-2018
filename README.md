@@ -63,12 +63,12 @@ Antes del análisis se realizó limpieza, eliminación de valores faltantes, det
 
 ##  6. Recomendaciones de negocio
 
-1. **Implementar un sistema de scoring crediticio segmentado**, considerando edad, ingresos, tipo de crédito y ubicación del cliente.  
-2. **Revisar políticas para créditos de consumo**, aplicando garantías adicionales o límites más estrictos para clientes de alto riesgo.  
-3. **Incorporar datos geográficos y socioeconómicos** al análisis para una evaluación más contextualizada.  
-4. **Mejorar la calidad y trazabilidad del historial crediticio**, evitando vacíos de información que afecten la predicción.  
-5. **Monitorear clientes en transición de riesgo medio a alto**, aplicando alertas tempranas para evitar la morosidad.  
-6. **Capacitar al personal de crédito** en detección temprana de señales de riesgo y en evaluación integral del cliente.
+1. Implementar un sistema de scoring crediticio segmentado, considerando edad, ingresos, tipo de crédito y ubicación del cliente.  
+2. Revisar políticas para créditos de consumo, aplicando garantías adicionales o límites más estrictos para clientes de alto riesgo.  
+3. Incorporar datos geográficos y socioeconómicos al análisis para una evaluación más contextualizada.  
+4. Mejorar la calidad y trazabilidad del historial crediticio, evitando vacíos de información que afecten la predicción.  
+5. Monitorear clientes en transición de riesgo medio a alto, aplicando alertas tempranas para evitar la morosidad.  
+6. Capacitar al personal de crédito en detección temprana de señales de riesgo y en evaluación integral del cliente.
 
 ---
 
